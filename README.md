@@ -4,7 +4,8 @@ este sera el repositorio donde guardare todas mis notas relacionados al aprendis
 
 
 ## Features  
-- Link del curso que estoy tomando es   https://campus.open-bootcamp.com/cursos/6/ es gratis
+- Link del curso que estoy tomando es  
+ https://campus.open-bootcamp.com/cursos/6/ es gratis y super malo exmplica maly cosas random
 - Estoy trabajando en PopOs (linux)
 - con la version 3.10 creo
 - Dejare todo los comando con comentarios 
