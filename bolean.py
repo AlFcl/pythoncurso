@@ -1,0 +1,4 @@
+# datos bolean
+
+bolnia = True
+

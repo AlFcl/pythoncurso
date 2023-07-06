@@ -4,12 +4,12 @@ este sera el repositorio donde guardare todas mis notas relacionados al aprendis
 
 
 ## Features  
-- Link del curso que estoy tomando es  
- https://campus.open-bootcamp.com/cursos/6/ es gratis y super malo exmplica maly cosas random
+
 - Estoy trabajando en PopOs (linux)
 - con la version 3.10 creo
 - Dejare todo los comando con comentarios 
 - Por que el curso gratis por que si
+- cambie  de curso ya que no es lo que realmente se necesita aun
 
 ## Mis metas
 
