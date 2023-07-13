@@ -27,6 +27,9 @@ while i <= 12:
     print (f"{n} x {i} = {n*i}")
     
     
+
+
+    
     
     
     
