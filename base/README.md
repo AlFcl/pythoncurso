@@ -14,3 +14,22 @@ este sera el repositorio donde guardare todas mis notas relacionados al aprendis
 ## Mis metas
 
 Crear mi pagina web, crear api ya que es un mundo interesante. 
+
+
+# mias alias
+
+# ejecutar archivo de python
+```bash 
+alias p='python3.11'
+```bash 
+alias pf='f(){ touch "$1.py" && code "$1.py"; unset -f f; }; f'
+
+#crear archivo
+
+```bash 
+alias t='touch'
+#funcion 
+c() {
+    touch "$@" && code "$@"
+}
+ 
