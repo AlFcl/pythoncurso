@@ -4,6 +4,7 @@ class Champ ():
     Role= ""
     Race= ""
     Habilities= ""
+
 Campeon1= Champ()
 Campeon1.Name= "Aatrox"
 

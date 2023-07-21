@@ -15,8 +15,4 @@
 
 # and y
 # or o
-# not no
 
-
-# operaciones relacionales y logicos
-#

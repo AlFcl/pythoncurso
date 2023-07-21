@@ -4,6 +4,9 @@
 #las tuplas simepre se encierran entre parentesis
 #las listas se encierran entre corchetes
 #diccionarios se encierran entre llaves
+#las tuplas son mas rapidas que las listas
+#las tuplas son mas seguras que las listas
+
 # key:valor
 
 #ejemplo de tupla
